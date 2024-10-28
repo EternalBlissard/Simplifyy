@@ -1,0 +1,6 @@
+gradio
+openai
+spaces
+ffmpeg-python
+git+https://github.com/openai/whisper.git
+gradio_client
